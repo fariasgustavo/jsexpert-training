@@ -1,0 +1,1 @@
+{"processes":{"40f41ffe-1706-4e7c-bc99-99f885930e67":{"parent":"7d515c62-69cb-40e3-97a9-de398854d984","children":[]},"7d515c62-69cb-40e3-97a9-de398854d984":{"parent":null,"children":["40f41ffe-1706-4e7c-bc99-99f885930e67"]}},"files":{"/Users/gustavo.farias/projects/jsexpert/aula04-coverage-e2e/api.js":["40f41ffe-1706-4e7c-bc99-99f885930e67"]},"externalIds":{}}
